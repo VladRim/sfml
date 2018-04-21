@@ -1,2 +1,2 @@
 # sfml
-MashinLearning
+MachineLearning
